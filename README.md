@@ -8,14 +8,14 @@ Water end-uses were monitored using different IoT systems set up for all the fix
 The residential apartment, sited in Naples (Italy), is made up of 7 water fixtures and is inhabited by 1 person. 
 
 The dataset contains:
-*- Water end use time series disaggregate for each fixture:
-* Washbasin
-* Bidet
-* Kitchen faucet
-* Shower
-* Washinmachine
-* Dishwasher
-*- Water end use time series aggregate for the whole apartment:
-* Whole house consumption
+- Water end use time series disaggregate for each fixture:
+ * Washbasin
+ * Bidet
+ * Kitchen faucet
+ * Shower
+ * Washinmachine
+ * Dishwasher
+- Water end use time series aggregate for the whole apartment:
+ * Whole house consumption
 
 
