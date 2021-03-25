@@ -20,4 +20,4 @@ The dataset contains:
 * Water end use time series aggregate for the whole apartment:
    * Whole house consumption
 
-Related Publication:
+Related Publication: A. Di Mauro, S. Venticinque, G.F. Santonastaso, A. Di Nardo. *WEUSEDTO-Water End USE Dataset and TOols: an open water end use consumption dataset and data analytics tools*
