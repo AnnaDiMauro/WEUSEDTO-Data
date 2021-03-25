@@ -1,5 +1,5 @@
-# WATER-E-DATA
-**WATER** **E**nd-use consumption **DATA**set: an open water end use consumption dataset and data analytics tools
+# WEUSEDTO
+**W**ater **E**nd **USE** **D**ataset and **TO**ols: an open water end use consumption dataset and data analytics tools
 
 This repository contains water end-use consumption time series collected in a single apartment used as case study. 
 
