@@ -1,7 +1,7 @@
 # WEUSEDTO-Data
 **W**ater **E**nd **USE** **D**ataset and **TO**ols: an open water end use consumption dataset and data analytics tools
 
-This repository contains the dataset of water end-use consumption time series collected in a single apartment used as case study for the WEUSEDTO software available at: ...........
+This repository contains the dataset of water end-use consumption time series collected in a single apartment used as case study for the WEUSEDTO software available at: https://github.com/Water-End-Use-Dataset-Tools/WEUSEDTO
 
 Water end-uses were monitored using different IoT systems set up for all the fixtures in the apartment as reported in  [*Di Mauro, A., Di Nardo, A., Santonastaso, G. F., & Venticinque, S. (2019). An IoT system for monitoring and data collection of residential water end-use consumption. In Proc. - Int. Conf. Comput. Commun. Networks, ICCCN. Vol. 2019-July*](https://www.researchgate.net/publication/334957395_An_IoT_System_for_Monitoring_and_Data_Collection_of_Residential_Water_End-Use_Consumption) 
 
